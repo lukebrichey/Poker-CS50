@@ -1,0 +1,102 @@
+#calcodds {
+    position: relative;
+    top: 29px;
+    left: -300px;
+}
+
+/* Cards */
+.cards {
+    height: 65px;
+    width: 45px;
+}
+
+#line {
+    width: 1250px; 
+    height: 5px;
+}
+
+/* Table, Board, Seats */
+#table {
+    background: url(https://media.istockphoto.com/vectors/poker-table-made-of-green-cloth-isolated-on-white-background-vector-id1218354508?k=20&m=1218354508&s=612x612&w=0&h=icJRJuNKZafDzXIRWHJEKq_KYmk7sC_Ej8fdxrVDHto=) no-repeat;
+    background-size: 1000px 600px;
+    background-position: center;
+    position: relative;
+    display: inline-block;
+    width: 1000px; 
+    height: 600px;
+}
+
+#player1 {
+    position: absolute;
+    top: 8px;
+    left: 395px;
+}
+
+#player2 {
+    position: absolute;
+    top: 520px;
+    left: 395px;
+}
+
+.card-placeholder {
+    height: 75px;
+    width: 55px;
+}
+
+#odds1 {
+    position: absolute;
+    top: 26px;
+    left: 125px;
+    white-space: nowrap;
+}
+
+#odds2 {
+    position: absolute;
+    top: 26px;
+    left: 125px;
+    white-space: nowrap;
+}
+
+.community {
+    position: relative;
+    top: 237px;
+    left: 0px;
+    height: 65px;
+    width: 45px;
+}
+
+#newhand {
+    position: relative;
+    top: 0px;
+    left: 300px;
+}
+
+/* Icon */
+#icon {
+    height: 35px;
+    width: 35px;
+}
+
+/* Size for brand */
+nav .navbar-brand
+{
+    font-size: xx-large;
+}
+
+/* Colors for brand */
+nav .navbar-brand .blue
+{
+    color: #537fbe;
+}
+nav .navbar-brand .red
+{
+    color: #ea433b;
+}
+nav .navbar-brand .yellow
+{
+    color: #f5b82e;
+}
+nav .navbar-brand .green
+{
+    color: #2e944b;
+}
