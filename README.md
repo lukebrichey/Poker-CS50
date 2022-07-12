@@ -1,2 +1,2 @@
 # Poker-CS50
-poker_helper is the file you are going to want to use
+Just a simple poker calculator that uses Flask framework to calculate odds of winning in given situations (only supports heads-up)
